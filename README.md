@@ -1,2 +1,2 @@
 # Resume Matcher
-This is your smart resume matching app.
+Smart resume matching app using Airtable.
